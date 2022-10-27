@@ -7,7 +7,7 @@
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <ApplicationManifest>app.manifest</ApplicationManifest>
-        <ApplicationIcon>moon.ico</ApplicationIcon>
+        <ApplicationIcon>moonbar_1024_t_5.ico</ApplicationIcon>
     </PropertyGroup>
 
     <ItemGroup>
