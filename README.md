@@ -1,5 +1,7 @@
 # MoonBar.App
 
+[![](https://img.shields.io/badge/MoonBar.ExplorerPatch_Repo-blue?style=for-the-badge)](https://github.com/sinlyu/MoonBar.ExplorerPatch)
+
 [![](https://img.shields.io/badge/MoonBar_Is_Not_Working_Super_Well_Right_Now-red?style=for-the-badge)](#)
 
 MoonBar moves the windows 11 taskbar to the top of your screen.
