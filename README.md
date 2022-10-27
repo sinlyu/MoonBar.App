@@ -1,5 +1,6 @@
 [![Github all releases](https://img.shields.io/github/downloads/sinlyu/MoonBar.App/total.svg)](https://github.com/sinlyu/MoonBar.App/releases/)
 [![GitHub license](https://img.shields.io/github/license/sinlyu/MoonBar.App.svg)](https://github.com/sinlyu/MoonBar.App/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/sinlyu/MoonBar.App.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sinlyu/MoonBar.App/stargazers/)
 
 # MoonBar.App
 
