@@ -4,7 +4,15 @@
 
 # MoonBar.App
 
-[How to use MoonBar](https://github.com/sinlyu/MoonBar.App/) | [Download & Release notes](https://github.com/sinlyu/MoonBar.App/releases/latest) | [MoonBar.ExplorerPatch Repo](https://github.com/sinlyu/MoonBar.ExplorerPatch)
+<p align="center">
+<img src="https://raw.githubusercontent.com/sinlyu/MoonBar.App/main/MoonBar.App/moonbar_1024_t_5.png" width="480" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sinlyu/MoonBar.App/">How to use MoonBar</a> | 
+  <a href="https://github.com/sinlyu/MoonBar.App/releases/latest">Download & Release notes</a> |
+  <a href="https://github.com/sinlyu/MoonBar.ExplorerPatch">MoonBar.ExplorerPatch Repo</a>
+</p>
 
 
 # About
