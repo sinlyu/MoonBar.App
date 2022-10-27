@@ -1,6 +1,8 @@
 # MoonBar.App
-MoonBar moves the windows 11 taskbar to the top of your screen.
 
+[![](https://img.shields.io/badge/MoonBar_Is_Not_Working_Super_Well_Right_Now-red?style=for-the-badge)](#)
+
+MoonBar moves the windows 11 taskbar to the top of your screen.
 
 Since the last windows 11 update it is not possible anymore to move your taskbar to the top of your screen.
 But since i am used to that, i created this little utility that moves the taskbar to the top.
@@ -21,3 +23,4 @@ missing features / bugs:
 - If the explorer process gets restarted, your taskbar will move down
 - Child windows of the taskbar have the wrong screen position
 - Icon tray acts weird
+- right clicking the task bar crashes explorer
