@@ -4,7 +4,7 @@
 
 # MoonBar.App
 
-[How to use MoonBar](https://www.google.com) | [Download & Release notes](https://www.google.com)
+[How to use MoonBar](https://github.com/sinlyu/MoonBar.App/) | [Download & Release notes](https://github.com/sinlyu/MoonBar.App/releases/latest) | [MoonBar.ExplorerPatch Repo](https://github.com/sinlyu/MoonBar.ExplorerPatch)
 
 
 # About
@@ -23,13 +23,3 @@ This project welcomes contributions of all types.
 * Icon tray does not update.
 * Right clicking the primary taskbar crashes explorer.exe.
 * Windows search and other types of windows do not have the right position.
-
-
-[![](https://img.shields.io/badge/MoonBar.ExplorerPatch_Repo-blue?style=for-the-badge)](https://github.com/sinlyu/MoonBar.ExplorerPatch)
-
-[![](https://img.shields.io/badge/MoonBar_Is_Not_Working_Super_Well_Right_Now-red?style=for-the-badge)](#)
-
-MoonBar moves the windows 11 taskbar to the top of your screen.
-
-Since the last windows 11 update it is not possible anymore to move your taskbar to the top of your screen.
-But since i am used to that, i created this little utility that moves the taskbar to the top.
