@@ -1,3 +1,5 @@
+[![Github all releases](https://img.shields.io/github/downloads/sinlyu/MoonBar.App/total.svg)](https://github.com/sinlyu/MoonBar.App/releases/)
+
 # MoonBar.App
 
 [![](https://img.shields.io/badge/MoonBar.ExplorerPatch_Repo-blue?style=for-the-badge)](https://github.com/sinlyu/MoonBar.ExplorerPatch)
