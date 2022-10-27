@@ -72,13 +72,17 @@ public static class User32
     private static extern int GetWindowText(IntPtr hWnd, StringBuilder lpString, int nMaxCount);
     
     [DllImport("user32.dll", SetLastError=true, CharSet=CharSet.Auto)]
-    static extern int GetWindowTextLength(IntPtr hWnd);
+    private static extern int GetWindowTextLength(IntPtr hWnd);
+
+    [DllImport("user32.dll", SetLastError = false)]
+    public static extern IntPtr GetDesktopWindow();
     
-    [DllImport("user32.dll", ExactSpelling=true, CharSet=CharSet.Auto)]
-    public static extern IntPtr GetParent(IntPtr hWnd);
+    [DllImport("user32.dll")]
+    public static extern IntPtr GetShellWindow();
     
-    [DllImport("user32.dll", ExactSpelling = true)]
-    public static extern IntPtr GetAncestor(IntPtr hwnd, GetAncestorFlags flags);
+    [DllImport("user32.dll")]
+    public static extern bool IsIconic(IntPtr hwnd);
+    
 
     public static string GetText(IntPtr hWnd)
     {

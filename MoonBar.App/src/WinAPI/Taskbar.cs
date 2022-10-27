@@ -75,6 +75,24 @@ public static class Taskbar
             {
                 return true;
             }
+            
+            // skip if window is desktop window
+            if (wnd == User32.GetDesktopWindow())
+            {
+                return true;
+            }
+
+            // skip if the specified window is minimized
+            if (User32.IsIconic(wnd))
+            {
+                return true;
+            }
+
+            // skip if the specified window is a desktop window
+            if (wnd == User32.GetShellWindow())
+            {
+                return true;
+            }
 
             // get monitor handle from window
             var hMonitor = User32.MonitorFromWindow(wnd, User32.MONITOR_DEFAULTTONEAREST);
