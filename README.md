@@ -29,6 +29,6 @@ MoonBar is a utility for users to move thier Windows taskbar to the top for grea
 This project welcomes contributions of all types.
 
 # Known issues
-* Icon tray does not update.
-* Right clicking the primary taskbar crashes explorer.exe.
+* ~~Icon tray does not update.~~ (Fixed in v1.0.2)
+* ~~Right clicking the primary taskbar crashes explorer.exe.~~ (Fixed in v1.0.2)
 * Windows search and other types of windows do not have the right position.
