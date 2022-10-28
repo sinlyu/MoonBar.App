@@ -77,19 +77,13 @@ public static class Taskbar
             }
             
             // skip if window is desktop window
-            if (wnd == User32.GetDesktopWindow())
+            if (wnd == User32.GetDesktopWindow() || wnd == User32.GetShellWindow())
             {
                 return true;
             }
 
             // skip if the specified window is minimized
             if (User32.IsIconic(wnd))
-            {
-                return true;
-            }
-
-            // skip if the specified window is a desktop window
-            if (wnd == User32.GetShellWindow())
             {
                 return true;
             }

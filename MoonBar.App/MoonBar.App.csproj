@@ -8,6 +8,9 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <ApplicationManifest>app.manifest</ApplicationManifest>
         <ApplicationIcon>moonbar_1024_t_5.ico</ApplicationIcon>
+        <AssemblyVersion>1.0.2</AssemblyVersion>
+        <FileVersion>1.0.2</FileVersion>
+        <NeutralLanguage>en</NeutralLanguage>
     </PropertyGroup>
 
     <ItemGroup>
