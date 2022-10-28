@@ -1,10 +1,19 @@
 [![Github all releases](https://img.shields.io/github/downloads/sinlyu/MoonBar.App/total.svg)](https://github.com/sinlyu/MoonBar.App/releases/)
 [![GitHub license](https://img.shields.io/github/license/sinlyu/MoonBar.App.svg)](https://github.com/sinlyu/MoonBar.App/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/sinlyu/MoonBar.App)](https://github.com/sinlyu/MoonBar.App/issues)
 [![GitHub stars](https://img.shields.io/github/stars/sinlyu/MoonBar.App.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sinlyu/MoonBar.App/stargazers/)
 
 # MoonBar.App
 
-[How to use MoonBar](https://github.com/sinlyu/MoonBar.App/) | [Download & Release notes](https://github.com/sinlyu/MoonBar.App/releases/latest) | [MoonBar.ExplorerPatch Repo](https://github.com/sinlyu/MoonBar.ExplorerPatch)
+<p align="center">
+<img src="https://raw.githubusercontent.com/sinlyu/MoonBar.App/main/MoonBar.App/moonbar_1024_t_5.png" width="480" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sinlyu/MoonBar.App/">How to use MoonBar</a> | 
+  <a href="https://github.com/sinlyu/MoonBar.App/releases/latest">Download & Release notes</a> |
+  <a href="https://github.com/sinlyu/MoonBar.ExplorerPatch">MoonBar.ExplorerPatch Repo</a>
+</p>
 
 
 # About
