@@ -1,4 +1,4 @@
-﻿using MoonBar.App.WinAPI.Structs;
+﻿using MoonBar.App.WinApi.Structs;
 
 namespace MoonBar.App.Display;
 

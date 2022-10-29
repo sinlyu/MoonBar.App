@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using MoonBar.App.Core;
-using MoonBar.App.Win32.Interop;
-using MoonBar.App.WinAPI.Structs;
+using MoonBar.App.WinApi.Interop;
+using MoonBar.App.WinApi.Structs;
 
 namespace MoonBar.App.Display;
 

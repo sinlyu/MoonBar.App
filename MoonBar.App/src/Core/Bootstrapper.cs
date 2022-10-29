@@ -3,8 +3,8 @@ using Ardalis.GuardClauses;
 using Lunar;
 using MoonBar.App.Display;
 using MoonBar.App.Guards;
-using MoonBar.App.Win32;
-using MoonBar.App.Win32.Interop;
+using MoonBar.App.WinApi;
+using MoonBar.App.WinApi.Interop;
 
 namespace MoonBar.App.Core;
 
