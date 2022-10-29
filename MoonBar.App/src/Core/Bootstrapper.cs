@@ -16,7 +16,6 @@ internal sealed class Bootstrapper
     public void Run()
     {
         _monitors = Guard.Against.NullOrEmpty(DisplayManager.Instance.DisplayMonitors, nameof(_monitors));
-        ;
         _taskbars = Guard.Against.NullOrEmpty(TaskbarManager.Instance.Taskbars, nameof(_taskbars));
 
         InjectDll();
